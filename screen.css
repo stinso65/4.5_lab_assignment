@@ -1,11 +1,11 @@
 /* Add screen styles below */
 body {
-    background-color: #003249;
+    background-color: #F7ECE1;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 h1 {
-    background: #80CED7;
-    color: #003249;
+    background: #725AC1;
+    color: #F7ECE1;
     font-size: xx-large;
     margin-top: 50px;
     padding-left: 20px;
@@ -18,7 +18,7 @@ h1 {
     margin-left: 700px;
 }
 h2 {
-    color: #FFFFFF;
+    color: #725AC1;
     padding-top: 30px;
 }
 .image {
@@ -33,7 +33,7 @@ h2 {
     margin-left: 20px;
 }
 p {
-    color: #FFFFFF;
+    color: #1E1E1E;
     display: inline-block;
     inline-size: 500px;
     margin-left: 20px;
