@@ -12,19 +12,25 @@ h1 {
 }
 .heading2 {
     text-align: center;
+    max-width: 500px;
+    margin-left: 700px;
 }
 h2 {
     color: #FFFFFF;
     padding-top: 30px;
 }
+.image {
+    float: left;
+    margin-left: 200px;
+    margin-top: 50px;
+    gap: 20px;
+}
+.about {
+    margin-left: 50px;
+}
 p {
     color: #FFFFFF;
+    display: inline-block;
+    inline-size: 500px;
+    margin-left: 50px;
 }
-.image {
-    margin-left: 100px;
-    margin-top: 50px;
-    
-}
-.maintext {
-    text-align: left;
-    inline-size: 700px;
