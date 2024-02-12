@@ -1,1 +1,22 @@
 /* Add screen styles below */
+body {
+    background-color: #353535;
+}
+h1 {
+    background: #B5B5B5;
+    color: #353535;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.heading2 {
+    text-align: center;
+}
+h2 {
+    color: #FFFFFF;
+    padding-top: 30px;
+}
+p {
+    color: #FFFFFF;
+}
